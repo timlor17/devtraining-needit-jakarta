@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="3" type="collection">
+        <element label="New field 2" max_length="40" name="new_field_1" type="integer"/>
+        <element label="New field 1" max_length="40" name="new_field_2" type="integer"/>
+        <element label="New field 3" max_length="40" name="new_field_3" type="integer"/>
+        <element label="New field 4" max_length="50" name="new_field_4" type="integer"/>
+        <element label="New field 5" max_length="50" name="new_field_5" type="integer"/>
+        <element label="New field 6" max_length="50" name="new_field_6" type="integer"/>
+        <element label="New field 7" max_length="50" name="new_field_7" type="integer"/>
+        <element label="New field 8" max_length="50" name="new_field_8" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="New_table" max_length="40" name="x_58872_needit_new_table" type="collection">
+        <element label="New colunm 1" max_length="50" name="new_colunm_1" type="integer"/>
+    </element>
+</database>
